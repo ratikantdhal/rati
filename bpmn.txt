@@ -1,0 +1,64 @@
+Business Application successfully generated!
+ Unzip generated business-application.zip file
+ Go to business-application-service directory
+ Execute launch.sh/bat clean install
+ Open browser at http://localhost:8090
+http://www.adeveloperdiary.com/bpm/jbpm/get-started-with-jbpm-kie-and-drools-workbench-part-1/
+http://localhost:9080
+
+https://github.com/kiegroup/droolsjbpm-intregration/tree/master/kie-spring-boot/kie-spring-boot-samples
+
+
+java -jar ./target/sample-shell-service-1.0-SNAPSHOT.jar
+
+
+Microsoft Windows [Version 10.0.17134.1184]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Git\bin>cd ../..
+
+C:\>cd gitrati
+
+C:\gitrati>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E9A-F833
+
+ Directory of C:\gitrati
+
+13-12-2019  14:42    <DIR>          .
+13-12-2019  14:42    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  931,376,324,608 bytes free
+
+C:\gitrati>git config --global user.name "ratikantdhal"
+
+C:\gitrati>git config --global user.email dhalkant@gmail.com
+
+C:\gitrati>git config --list
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+credential.helper=manager
+user.email=dhalkant@gmail.com
+user.name=ratikantdhal
+credential.helper=manager
+
+C:\gitrati>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
